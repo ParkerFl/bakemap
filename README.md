@@ -1,1 +1,1 @@
-# bakemap.github.io
+# bakemap
